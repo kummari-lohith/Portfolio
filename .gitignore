@@ -25,4 +25,4 @@ dist-ssr
 .npmrc
 
 backup/
-.env
+.envpublic/models/character.glb
